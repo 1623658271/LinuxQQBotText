@@ -11,6 +11,7 @@ driver = nonebot.get_driver()
 driver.register_adapter(ONEBOT_V11Adapter)
 
 nonebot.load_builtin_plugins("echo")
+nonebot.load_plugins("src/plugins/zdhf")
 
 nonebot.load_from_toml("pyproject.toml")
 

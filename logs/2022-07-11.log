@@ -1,0 +1,597 @@
+[2022-07-11 22:19:15] [WARNING]: 虚拟设备信息不存在, 将自动生成随机设备. 
+[2022-07-11 22:19:21] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2022-07-11 22:19:21] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2022-07-11 22:19:21] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2022-07-11 22:19:21] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2022-07-11 22:22:17] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2022-07-11 22:22:17] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2022-07-11 22:22:17] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2022-07-11 22:22:17] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2022-07-11 22:22:21] [WARNING]: 请前往该地址验证 -> https://captcha.go-cqhttp.org/captcha?id=4f52phAN&style=simple&aid=16&uin=2534354342&sid=2400025050897723928&cap_cd=BefQF3sYWLNfDyuQsNDufa0avD-HaWrIRBEQ_RNwjtRhMA07h_-xdw**&clientype=1&apptype=2 
+[2022-07-11 22:23:52] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2022-07-11 22:23:52] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2022-07-11 22:23:52] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2022-07-11 22:23:52] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2022-07-11 22:23:55] [WARNING]: 请前往该地址验证 -> https://captcha.go-cqhttp.org/captcha?id=YCWXTdiu&style=simple&aid=16&uin=2534354342&sid=2955645943276122744&cap_cd=nle-ElrDRybcFnc-J9MyQG5qTpgu4fzwgl8keNWmWVCkGCRuFwh0bQ**&clientype=1&apptype=2 
+[2022-07-11 22:25:23] [WARNING]: 账号已开启设备锁，请选择验证方式: 
+[2022-07-11 22:25:23] [WARNING]: 1. 向手机 199*******5 发送短信验证码 
+[2022-07-11 22:25:23] [WARNING]: 2. 使用手机QQ扫码验证. 
+[2022-07-11 22:25:23] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择2)： 
+[2022-07-11 22:25:33] [WARNING]: 账号已开启设备锁，请前往 -> https://ti.qq.com/safe/verify?_wv=2&_wwv=128&envfrom=double-check&uin=2534354342&sig=6J1QOQjzK%2FRA8PAzbycxxuTkIwLjuNlr9qVI%2BHZUQVXsqKkz0pf6P9xPud%2F8y6Dva80L23cK49GWi0J%2FTwu1xCQL7CCPwKpI6k53AoAgxXA%3D <- 验证后重启Bot. 
+[2022-07-11 22:27:16] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-07-11 22:27:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60324->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:27:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60358->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:27:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60368->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:27:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60372->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:27:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60378->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:27:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60388->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:27:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60392->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:27:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60398->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:27:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60404->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:27:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60414->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:27:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60418->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:27:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60424->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:27:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60434->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:27:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60438->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:28:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60444->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:28:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60456->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:28:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60462->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:28:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60468->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:28:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60476->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:28:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60490->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:28:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60494->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:28:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60500->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:28:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60510->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:28:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60514->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:28:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60520->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:28:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60530->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:28:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60534->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:28:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60540->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:28:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60546->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:28:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60556->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:28:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60560->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:28:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60566->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:28:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60576->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:28:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60580->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:29:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60586->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:29:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60596->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:29:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60602->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:29:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60608->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:29:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60616->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:29:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60626->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:29:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60630->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:29:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60636->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:29:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60646->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:29:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60650->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:29:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60656->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:29:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60666->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:29:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60670->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:29:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60676->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:29:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60682->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:29:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60692->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:29:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60696->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:29:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60702->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:29:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60716->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:29:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60720->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:30:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60726->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:30:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60736->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:30:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60742->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:30:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60748->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:30:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60756->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:30:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60766->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:30:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60770->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:30:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60776->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:30:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60786->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:30:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60790->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:30:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60796->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:30:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60806->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:30:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60810->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:30:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60816->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:30:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60822->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:30:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60832->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:30:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60836->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:30:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60842->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:30:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60852->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:30:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60856->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:31:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60862->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:31:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60872->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:31:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60878->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:31:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60884->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:31:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60892->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:31:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60902->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:31:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60906->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:31:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60912->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:31:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60922->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:31:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60926->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:31:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60932->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:31:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60942->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:31:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60946->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:31:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60952->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:31:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60958->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:31:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60968->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:31:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60972->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:31:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60978->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:31:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60988->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:31:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60992->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:32:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:60998->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:32:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:32776->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:32:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:32782->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:32:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:32788->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:32:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:32796->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:32:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:32806->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:32:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:32810->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:32:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:32816->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:32:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:32826->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:32:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:32830->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:32:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:32836->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:32:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:32846->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:32:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:32850->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:32:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:32856->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:32:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:32862->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:32:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:32872->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:32:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:32876->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:32:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:32882->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:32:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:32892->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:32:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:32896->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:33:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:32902->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:33:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:32914->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:33:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:32920->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:33:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:32926->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:33:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:32934->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:33:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:32944->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:33:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:32948->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:33:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:32954->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:33:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:32964->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:33:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:32968->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:33:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:32974->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:33:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:32984->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:33:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:32988->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:33:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:32994->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:33:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33000->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:33:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33014->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:33:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33018->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:33:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33024->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:33:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33034->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:33:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33038->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:34:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33044->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:34:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33054->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:34:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33060->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:34:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33066->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:34:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33074->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:34:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33084->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:34:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33088->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:34:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33094->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:34:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33104->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:34:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33108->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:34:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33114->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:34:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33124->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:34:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33128->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:34:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33134->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:34:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33140->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:34:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33150->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:34:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33154->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:34:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33160->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:34:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33174->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:34:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33178->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:35:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33184->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:35:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33194->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:35:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33200->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:35:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33206->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:35:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33214->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:35:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33224->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:35:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33228->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:35:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33234->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:35:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33244->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:35:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33248->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:35:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33254->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:35:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33264->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:35:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33268->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:35:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33274->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:35:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33280->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:35:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33290->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:35:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33294->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:35:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33300->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:35:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33310->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:35:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33314->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:36:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33320->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:36:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33330->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 22:36:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:33336->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 14:36:33] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-07-11 14:42:19] [WARNING]: Bot已离线: 你的QQ号于22:42在【mirai】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。 
+[2022-07-11 14:42:22] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2022-07-11 14:42:25] [WARNING]: 尝试重连... 
+[2022-07-11 14:42:25] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-07-11 14:42:25] [WARNING]: 快速重连失败: token failed 
+[2022-07-11 14:42:25] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-07-11 14:42:27] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-07-11 14:42:34] [WARNING]: Bot已离线: 你的QQ号于22:42在【mirai】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。 
+[2022-07-11 14:42:37] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2022-07-11 14:42:40] [WARNING]: 尝试重连... 
+[2022-07-11 14:42:40] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-07-11 14:57:43] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-07-11 14:57:50] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:33402->127.0.0.1:8080: use of closed network connection 
+[2022-07-11 15:15:05] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-07-11 15:15:10] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:34708->127.0.0.1:8080: use of closed network connection 
+[2022-07-11 15:17:43] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-07-11 15:17:49] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:35716->127.0.0.1:8080: use of closed network connection 
+[2022-07-11 15:18:47] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-07-11 15:18:50] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:35868->127.0.0.1:8080: use of closed network connection 
+[2022-07-11 15:23:56] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-07-11 15:23:58] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:35932->127.0.0.1:8080: write: broken pipe 
+[2022-07-11 15:25:56] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-07-11 15:26:00] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:36228->127.0.0.1:8080: use of closed network connection 
+[2022-07-11 15:27:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: read tcp 127.0.0.1:36350->127.0.0.1:8080: read: connection reset by peer 
+[2022-07-11 15:27:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:27:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:27:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:27:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:27:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:27:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:27:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:27:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:27:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:27:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:28:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:28:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:28:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:28:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:28:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:28:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:28:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:28:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:28:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:28:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:28:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:28:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:28:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:28:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:28:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:28:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:28:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:28:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:28:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:28:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:29:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:29:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:29:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:29:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:29:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:29:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:29:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:29:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:29:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:29:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:29:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:29:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:29:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:29:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:29:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:29:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:29:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:29:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:29:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:29:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:30:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:30:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:30:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:30:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:30:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:30:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:30:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:30:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:30:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:30:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:30:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:30:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:30:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:30:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:30:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:30:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:30:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:30:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:30:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:30:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:31:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:31:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:31:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:31:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:31:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:31:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:31:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:31:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:31:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:31:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:31:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:31:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:31:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:31:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:31:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:31:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:31:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:31:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:31:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:31:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:32:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:32:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:32:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:32:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:32:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:32:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:32:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:32:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:32:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:32:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:32:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:32:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:32:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:32:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:32:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:32:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:32:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:32:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:32:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:32:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:33:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:33:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:33:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:33:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:33:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:33:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:33:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:33:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:33:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:33:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:33:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:33:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:33:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:33:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:33:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:33:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:33:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:33:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:33:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:33:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:34:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:34:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:34:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:34:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:34:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:34:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:34:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:34:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:34:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:34:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:34:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:34:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:34:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:34:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:34:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:34:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:34:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:34:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:34:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:34:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:35:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:35:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:35:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:35:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:35:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:35:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:35:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:35:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:35:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:35:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:35:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:35:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:35:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:35:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:35:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:35:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:35:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:35:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:35:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:35:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:36:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:36:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:36:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:36:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:36:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:36:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:36:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:36:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:36:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:36:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:36:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:36:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:36:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:36:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:36:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:36:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:36:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:36:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:36:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:36:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:37:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:37:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:37:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:37:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:37:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:37:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:37:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:37:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:37:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:37:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:37:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:37:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:37:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:37:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:37:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:37:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:37:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:37:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:37:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:37:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:38:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:38:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:38:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:38:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:38:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:38:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:38:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:38:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:38:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:38:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:38:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:38:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:38:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:38:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:38:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:38:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:38:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:38:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:38:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:38:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:39:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:39:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:39:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:39:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:39:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:39:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:39:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:39:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:39:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:39:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:39:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:39:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:39:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:39:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:39:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:39:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:39:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:39:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:39:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:39:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:40:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:40:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:40:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:40:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:40:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:40:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:40:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:40:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:40:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:40:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:40:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:40:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:40:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:40:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:40:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:40:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:40:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:40:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:40:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:40:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:41:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:41:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:41:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:41:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:41:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:41:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:41:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:41:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:41:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:41:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:41:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:41:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:41:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:41:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:41:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:41:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:41:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:41:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:41:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:41:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:42:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:42:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:42:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:42:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:42:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:42:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:42:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:42:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:42:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:42:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:42:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:42:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:42:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:42:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:42:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:42:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:42:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:42:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:42:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:42:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:43:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:43:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:43:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:43:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:43:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:43:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:43:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:43:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:43:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:43:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:43:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:43:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:43:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:43:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:43:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:43:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:43:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:43:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:43:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:43:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:44:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:44:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:44:04] [WARNING]: Bot已离线: 你的QQ号于23:44在【mirai】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。 
+[2022-07-11 15:44:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:44:07] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2022-07-11 15:44:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:44:10] [WARNING]: 尝试重连... 
+[2022-07-11 15:44:11] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-07-11 15:44:11] [WARNING]: 快速重连失败: token failed 
+[2022-07-11 15:44:11] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-07-11 15:44:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:44:12] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-07-11 15:44:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:44:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:44:18] [WARNING]: Bot已离线: 你的QQ号于23:44在【mirai】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。 
+[2022-07-11 15:44:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:44:21] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2022-07-11 15:44:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:44:24] [WARNING]: 尝试重连... 
+[2022-07-11 15:44:25] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-07-11 15:44:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:44:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:44:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:44:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:44:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:44:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:44:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:44:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:44:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:44:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:44:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:45:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:45:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:45:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:45:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:45:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:45:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:45:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:45:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:45:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:45:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:45:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:45:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-07-11 15:45:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 

@@ -1,0 +1,1100 @@
+07-11 13:33:33 [SUCCESS] nonebot | NoneBot is initializing...
+07-11 13:33:33 [INFO] nonebot | Current Env: dev
+07-11 13:33:33 [DEBUG] nonebot | Loaded Config: {'driver': '~fastapi', 'host': IPv4Address('127.0.0.1'), 'port': 8080, 'log_level': 'DEBUG', 'api_timeout': 30.0, 'superusers': set(), 'nickname': set(), 'command_start': {'/'}, 'command_sep': {'.'}, 'session_expire_timeout': datetime.timedelta(seconds=120), 'environment': 'dev', 'fastapi_reload': True}
+07-11 13:33:33 [DEBUG] nonebot | Succeeded to load adapter "OneBot V11"
+07-11 13:33:33 [SUCCESS] nonebot | Succeeded to import "echo"
+07-11 13:33:33 [SUCCESS] nonebot | Running NoneBot...
+07-11 13:33:33 [DEBUG] nonebot | Loaded adapters: OneBot V11
+07-11 13:33:33 [INFO] uvicorn | Will watch for changes in these directories: ['/var/qqbot/qqbots']
+07-11 13:33:33 [INFO] uvicorn | Uvicorn running on http://127.0.0.1:8080 (Press CTRL+C to quit)
+07-11 13:33:33 [INFO] uvicorn | Started reloader process [112] using watchgod
+07-11 13:33:34 [SUCCESS] nonebot | NoneBot is initializing...
+07-11 13:33:34 [INFO] nonebot | Current Env: dev
+07-11 13:33:34 [DEBUG] nonebot | Loaded Config: {'driver': '~fastapi', 'host': IPv4Address('127.0.0.1'), 'port': 8080, 'log_level': 'DEBUG', 'api_timeout': 30.0, 'superusers': set(), 'nickname': set(), 'command_start': {'/'}, 'command_sep': {'.'}, 'session_expire_timeout': datetime.timedelta(seconds=120), 'fastapi_reload': True, 'environment': 'dev'}
+07-11 13:33:34 [DEBUG] nonebot | Succeeded to load adapter "OneBot V11"
+07-11 13:33:35 [SUCCESS] nonebot | Succeeded to import "echo"
+07-11 13:33:35 [INFO] uvicorn | Started server process [114]
+07-11 13:33:35 [INFO] uvicorn | Waiting for application startup.
+07-11 13:33:35 [INFO] uvicorn | Application startup complete.
+07-11 14:29:40 [SUCCESS] nonebot | NoneBot is initializing...
+07-11 14:29:40 [INFO] nonebot | Current Env: dev
+07-11 14:29:40 [DEBUG] nonebot | Loaded Config: {'driver': '~fastapi', 'host': IPv4Address('127.0.0.1'), 'port': 8080, 'log_level': 'DEBUG', 'api_timeout': 30.0, 'superusers': set(), 'nickname': set(), 'command_start': {'/'}, 'command_sep': {'.'}, 'session_expire_timeout': datetime.timedelta(seconds=120), 'fastapi_reload': True, 'environment': 'dev'}
+07-11 14:29:40 [DEBUG] nonebot | Succeeded to load adapter "OneBot V11"
+07-11 14:29:41 [SUCCESS] nonebot | Succeeded to import "echo"
+07-11 14:29:41 [SUCCESS] nonebot | Running NoneBot...
+07-11 14:29:41 [DEBUG] nonebot | Loaded adapters: OneBot V11
+07-11 14:29:41 [INFO] uvicorn | Will watch for changes in these directories: ['/var/qqbot/qqbots']
+07-11 14:29:41 [ERROR] uvicorn | [Errno 98] Address already in use
+07-11 14:35:09 [INFO] uvicorn | Shutting down
+07-11 14:35:09 [INFO] uvicorn | Waiting for application shutdown.
+07-11 14:35:09 [INFO] uvicorn | Application shutdown complete.
+07-11 14:35:09 [INFO] uvicorn | Finished server process [114]
+07-11 14:35:09 [INFO] uvicorn | Stopping reloader process [112]
+07-12 03:40:36 [SUCCESS] nonebot | NoneBot is initializing...
+07-12 03:40:36 [INFO] nonebot | Current Env: dev
+07-12 03:40:36 [DEBUG] nonebot | Loaded Config: {'driver': '~fastapi', 'host': IPv4Address('127.0.0.1'), 'port': 8080, 'log_level': 'DEBUG', 'api_timeout': 30.0, 'superusers': {'1623658271'}, 'nickname': set(), 'command_start': {'', ' '}, 'command_sep': {'.'}, 'session_expire_timeout': datetime.timedelta(seconds=120), 'fastapi_reload': True, 'environment': 'dev'}
+07-12 03:40:36 [DEBUG] nonebot | Succeeded to load adapter "OneBot V11"
+07-12 03:40:36 [SUCCESS] nonebot | Succeeded to import "nonebot_plugin_apscheduler"
+07-12 03:40:37 [SUCCESS] nonebot | Succeeded to import "timework"
+07-12 03:40:37 [SUCCESS] nonebot | Succeeded to import "songpicker2"
+07-12 03:40:37 [SUCCESS] nonebot | Succeeded to import "yiyan"
+The Zen of Python, by Tim Peters
+
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
+07-12 03:40:37 [SUCCESS] nonebot | Succeeded to import "image"
+07-12 03:40:37 [SUCCESS] nonebot | Succeeded to import "live"
+07-12 03:40:37 [SUCCESS] nonebot | Succeeded to import "chuo"
+07-12 03:40:37 [SUCCESS] nonebot | Succeeded to import "tiangou"
+07-12 03:40:37 [SUCCESS] nonebot | Succeeded to import "addSbToBan"
+07-12 03:40:37 [SUCCESS] nonebot | Succeeded to import "huifu"
+07-12 03:40:37 [SUCCESS] nonebot | Succeeded to import "jitang"
+07-12 03:40:37 [SUCCESS] nonebot | Succeeded to import "utils"
+07-12 03:40:37 [SUCCESS] nonebot | Succeeded to import "config2"
+07-12 03:40:37 [SUCCESS] nonebot | Running NoneBot...
+07-12 03:40:37 [DEBUG] nonebot | Loaded adapters: OneBot V11
+07-12 03:40:37 [INFO] uvicorn | Will watch for changes in these directories: ['/var/qqbot/qqbots']
+07-12 03:40:37 [INFO] uvicorn | Uvicorn running on http://127.0.0.1:8080 (Press CTRL+C to quit)
+07-12 03:40:37 [INFO] uvicorn | Started reloader process [130] using watchgod
+07-12 03:40:38 [SUCCESS] nonebot | NoneBot is initializing...
+07-12 03:40:38 [INFO] nonebot | Current Env: dev
+07-12 03:40:38 [DEBUG] nonebot | Loaded Config: {'driver': '~fastapi', 'host': IPv4Address('127.0.0.1'), 'port': 8080, 'log_level': 'DEBUG', 'api_timeout': 30.0, 'superusers': {'1623658271'}, 'nickname': set(), 'command_start': {'', ' '}, 'command_sep': {'.'}, 'session_expire_timeout': datetime.timedelta(seconds=120), 'environment': 'dev', 'fastapi_reload': True}
+07-12 03:40:38 [DEBUG] nonebot | Succeeded to load adapter "OneBot V11"
+07-12 03:40:38 [SUCCESS] nonebot | Succeeded to import "nonebot_plugin_apscheduler"
+07-12 03:40:38 [SUCCESS] nonebot | Succeeded to import "timework"
+07-12 03:40:38 [SUCCESS] nonebot | Succeeded to import "songpicker2"
+07-12 03:40:38 [SUCCESS] nonebot | Succeeded to import "utils"
+07-12 03:40:38 [SUCCESS] nonebot | Succeeded to import "yiyan"
+The Zen of Python, by Tim Peters
+
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
+07-12 03:40:41 [SUCCESS] nonebot | Succeeded to import "tiangou"
+07-12 03:40:41 [SUCCESS] nonebot | Succeeded to import "jitang"
+07-12 03:40:41 [SUCCESS] nonebot | Succeeded to import "chuo"
+07-12 03:40:41 [SUCCESS] nonebot | Succeeded to import "huifu"
+07-12 03:40:41 [SUCCESS] nonebot | Succeeded to import "live"
+07-12 03:40:41 [SUCCESS] nonebot | Succeeded to import "image"
+07-12 03:40:41 [SUCCESS] nonebot | Succeeded to import "addSbToBan"
+07-12 03:40:41 [SUCCESS] nonebot | Succeeded to import "config2"
+07-12 03:40:41 [INFO] uvicorn | Started server process [132]
+07-12 03:40:41 [INFO] uvicorn | Waiting for application startup.
+07-12 03:40:41 [INFO] nonebot_plugin_apscheduler | Scheduler Started
+07-12 03:40:41 [INFO] uvicorn | Application startup complete.
+07-12 03:40:44 [INFO] uvicorn | ('127.0.0.1', 52966) - "WebSocket /onebot/v11/ws/" [accepted]
+07-12 03:40:44 [INFO] nonebot | OneBot V11 | Bot 2534354342 connected
+07-12 03:40:44 [INFO] websockets | connection open
+07-12 03:40:44 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.LifecycleMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:40:44 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:40:46 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:40:48 [WARNING] uvicorn | WatchGodReload detected file change in '['/var/qqbot/qqbots/src/plugins/zdhf/jitang.py']'. Reloading...
+07-12 03:40:48 [INFO] uvicorn | Shutting down
+07-12 03:40:48 [WARNING] nonebot | OneBot V11 | WebSocket for Bot 2534354342 closed by peer
+07-12 03:40:48 [INFO] websockets | connection closed
+07-12 03:40:48 [INFO] uvicorn | Waiting for application shutdown.
+07-12 03:40:48 [INFO] uvicorn | Application shutdown complete.
+07-12 03:40:48 [INFO] uvicorn | Finished server process [132]
+07-12 03:40:49 [SUCCESS] nonebot | NoneBot is initializing...
+07-12 03:40:49 [INFO] nonebot | Current Env: dev
+07-12 03:40:49 [DEBUG] nonebot | Loaded Config: {'driver': '~fastapi', 'host': IPv4Address('127.0.0.1'), 'port': 8080, 'log_level': 'DEBUG', 'api_timeout': 30.0, 'superusers': {'1623658271'}, 'nickname': set(), 'command_start': {'', ' '}, 'command_sep': {'.'}, 'session_expire_timeout': datetime.timedelta(seconds=120), 'fastapi_reload': True, 'environment': 'dev'}
+07-12 03:40:49 [DEBUG] nonebot | Succeeded to load adapter "OneBot V11"
+07-12 03:40:49 [SUCCESS] nonebot | Succeeded to import "nonebot_plugin_apscheduler"
+07-12 03:40:49 [SUCCESS] nonebot | Succeeded to import "timework"
+07-12 03:40:49 [SUCCESS] nonebot | Succeeded to import "songpicker2"
+07-12 03:40:49 [SUCCESS] nonebot | Succeeded to import "yiyan"
+07-12 03:40:49 [SUCCESS] nonebot | Succeeded to import "utils"
+The Zen of Python, by Tim Peters
+
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
+07-12 03:40:49 [SUCCESS] nonebot | Succeeded to import "addSbToBan"
+07-12 03:40:49 [SUCCESS] nonebot | Succeeded to import "jitang"
+07-12 03:40:49 [SUCCESS] nonebot | Succeeded to import "live"
+07-12 03:40:49 [SUCCESS] nonebot | Succeeded to import "config2"
+07-12 03:40:49 [SUCCESS] nonebot | Succeeded to import "tiangou"
+07-12 03:40:49 [SUCCESS] nonebot | Succeeded to import "chuo"
+07-12 03:40:49 [SUCCESS] nonebot | Succeeded to import "image"
+07-12 03:40:50 [SUCCESS] nonebot | Succeeded to import "huifu"
+07-12 03:40:50 [INFO] uvicorn | Started server process [133]
+07-12 03:40:50 [INFO] uvicorn | Waiting for application startup.
+07-12 03:40:50 [INFO] nonebot_plugin_apscheduler | Scheduler Started
+07-12 03:40:50 [INFO] uvicorn | Application startup complete.
+07-12 03:40:59 [INFO] uvicorn | ('127.0.0.1', 52978) - "WebSocket /onebot/v11/ws/" [accepted]
+07-12 03:40:59 [INFO] nonebot | OneBot V11 | Bot 2534354342 connected
+07-12 03:40:59 [INFO] websockets | connection open
+07-12 03:40:59 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.LifecycleMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:41:01 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:41:06 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:41:08 [WARNING] uvicorn | WatchGodReload detected file change in '['/var/qqbot/qqbots/src/plugins/zdhf/live.py']'. Reloading...
+07-12 03:41:08 [INFO] uvicorn | Shutting down
+07-12 03:41:08 [WARNING] nonebot | OneBot V11 | WebSocket for Bot 2534354342 closed by peer
+07-12 03:41:08 [INFO] websockets | connection closed
+07-12 03:41:09 [INFO] uvicorn | Waiting for application shutdown.
+07-12 03:41:09 [INFO] uvicorn | Application shutdown complete.
+07-12 03:41:09 [INFO] uvicorn | Finished server process [133]
+07-12 03:41:09 [SUCCESS] nonebot | NoneBot is initializing...
+07-12 03:41:09 [INFO] nonebot | Current Env: dev
+07-12 03:41:09 [DEBUG] nonebot | Loaded Config: {'driver': '~fastapi', 'host': IPv4Address('127.0.0.1'), 'port': 8080, 'log_level': 'DEBUG', 'api_timeout': 30.0, 'superusers': {'1623658271'}, 'nickname': set(), 'command_start': {'', ' '}, 'command_sep': {'.'}, 'session_expire_timeout': datetime.timedelta(seconds=120), 'fastapi_reload': True, 'environment': 'dev'}
+07-12 03:41:09 [DEBUG] nonebot | Succeeded to load adapter "OneBot V11"
+07-12 03:41:09 [SUCCESS] nonebot | Succeeded to import "nonebot_plugin_apscheduler"
+07-12 03:41:10 [SUCCESS] nonebot | Succeeded to import "timework"
+07-12 03:41:10 [SUCCESS] nonebot | Succeeded to import "songpicker2"
+The Zen of Python, by Tim Peters
+
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
+07-12 03:41:10 [SUCCESS] nonebot | Succeeded to import "chuo"
+07-12 03:41:10 [SUCCESS] nonebot | Succeeded to import "image"
+07-12 03:41:10 [SUCCESS] nonebot | Succeeded to import "yiyan"
+07-12 03:41:10 [SUCCESS] nonebot | Succeeded to import "addSbToBan"
+07-12 03:41:10 [SUCCESS] nonebot | Succeeded to import "huifu"
+07-12 03:41:10 [SUCCESS] nonebot | Succeeded to import "config2"
+07-12 03:41:10 [SUCCESS] nonebot | Succeeded to import "utils"
+07-12 03:41:10 [SUCCESS] nonebot | Succeeded to import "live"
+07-12 03:41:10 [SUCCESS] nonebot | Succeeded to import "jitang"
+07-12 03:41:10 [SUCCESS] nonebot | Succeeded to import "tiangou"
+07-12 03:41:10 [INFO] uvicorn | Started server process [136]
+07-12 03:41:10 [INFO] uvicorn | Waiting for application startup.
+07-12 03:41:10 [INFO] nonebot_plugin_apscheduler | Scheduler Started
+07-12 03:41:10 [INFO] uvicorn | Application startup complete.
+07-12 03:41:16 [INFO] uvicorn | ('127.0.0.1', 53000) - "WebSocket /onebot/v11/ws/" [accepted]
+07-12 03:41:16 [INFO] nonebot | OneBot V11 | Bot 2534354342 connected
+07-12 03:41:16 [INFO] websockets | connection open
+07-12 03:41:16 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.LifecycleMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:41:16 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:41:21 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:41:26 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:41:31 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:41:31 [WARNING] uvicorn | WatchGodReload detected file change in '['/var/qqbot/qqbots/src/plugins/zdhf/yiyan.py']'. Reloading...
+07-12 03:41:31 [INFO] uvicorn | Shutting down
+07-12 03:41:31 [WARNING] nonebot | OneBot V11 | WebSocket for Bot 2534354342 closed by peer
+07-12 03:41:31 [INFO] websockets | connection closed
+07-12 03:41:31 [INFO] uvicorn | Waiting for application shutdown.
+07-12 03:41:31 [INFO] uvicorn | Application shutdown complete.
+07-12 03:41:31 [INFO] uvicorn | Finished server process [136]
+07-12 03:41:32 [SUCCESS] nonebot | NoneBot is initializing...
+07-12 03:41:32 [INFO] nonebot | Current Env: dev
+07-12 03:41:32 [DEBUG] nonebot | Loaded Config: {'driver': '~fastapi', 'host': IPv4Address('127.0.0.1'), 'port': 8080, 'log_level': 'DEBUG', 'api_timeout': 30.0, 'superusers': {'1623658271'}, 'nickname': set(), 'command_start': {'', ' '}, 'command_sep': {'.'}, 'session_expire_timeout': datetime.timedelta(seconds=120), 'fastapi_reload': True, 'environment': 'dev'}
+07-12 03:41:32 [DEBUG] nonebot | Succeeded to load adapter "OneBot V11"
+07-12 03:41:32 [SUCCESS] nonebot | Succeeded to import "songpicker2"
+07-12 03:41:32 [SUCCESS] nonebot | Succeeded to import "nonebot_plugin_apscheduler"
+07-12 03:41:32 [SUCCESS] nonebot | Succeeded to import "timework"
+The Zen of Python, by Tim Peters
+
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
+07-12 03:41:32 [SUCCESS] nonebot | Succeeded to import "image"
+07-12 03:41:33 [SUCCESS] nonebot | Succeeded to import "addSbToBan"
+07-12 03:41:33 [SUCCESS] nonebot | Succeeded to import "chuo"
+07-12 03:41:33 [SUCCESS] nonebot | Succeeded to import "config2"
+07-12 03:41:33 [SUCCESS] nonebot | Succeeded to import "huifu"
+07-12 03:41:33 [SUCCESS] nonebot | Succeeded to import "jitang"
+07-12 03:41:33 [SUCCESS] nonebot | Succeeded to import "tiangou"
+07-12 03:41:33 [SUCCESS] nonebot | Succeeded to import "utils"
+07-12 03:41:33 [SUCCESS] nonebot | Succeeded to import "live"
+07-12 03:41:33 [SUCCESS] nonebot | Succeeded to import "yiyan"
+07-12 03:41:33 [INFO] uvicorn | Started server process [138]
+07-12 03:41:33 [INFO] uvicorn | Waiting for application startup.
+07-12 03:41:33 [INFO] nonebot_plugin_apscheduler | Scheduler Started
+07-12 03:41:33 [INFO] uvicorn | Application startup complete.
+07-12 03:41:39 [INFO] uvicorn | ('127.0.0.1', 53020) - "WebSocket /onebot/v11/ws/" [accepted]
+07-12 03:41:39 [INFO] nonebot | OneBot V11 | Bot 2534354342 connected
+07-12 03:41:39 [INFO] websockets | connection open
+07-12 03:41:39 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.LifecycleMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:41:41 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:41:42 [WARNING] uvicorn | WatchGodReload detected file change in '['/var/qqbot/qqbots/src/plugins/zdhf/yiyan.py']'. Reloading...
+07-12 03:41:42 [INFO] uvicorn | Shutting down
+07-12 03:41:42 [WARNING] nonebot | OneBot V11 | WebSocket for Bot 2534354342 closed by peer
+07-12 03:41:42 [INFO] websockets | connection closed
+07-12 03:41:42 [INFO] uvicorn | Waiting for application shutdown.
+07-12 03:41:42 [INFO] uvicorn | Application shutdown complete.
+07-12 03:41:42 [INFO] uvicorn | Finished server process [138]
+07-12 03:41:43 [SUCCESS] nonebot | NoneBot is initializing...
+07-12 03:41:43 [INFO] nonebot | Current Env: dev
+07-12 03:41:43 [DEBUG] nonebot | Loaded Config: {'driver': '~fastapi', 'host': IPv4Address('127.0.0.1'), 'port': 8080, 'log_level': 'DEBUG', 'api_timeout': 30.0, 'superusers': {'1623658271'}, 'nickname': set(), 'command_start': {'', ' '}, 'command_sep': {'.'}, 'session_expire_timeout': datetime.timedelta(seconds=120), 'fastapi_reload': True, 'environment': 'dev'}
+07-12 03:41:43 [DEBUG] nonebot | Succeeded to load adapter "OneBot V11"
+07-12 03:41:43 [SUCCESS] nonebot | Succeeded to import "songpicker2"
+07-12 03:41:43 [SUCCESS] nonebot | Succeeded to import "nonebot_plugin_apscheduler"
+07-12 03:41:43 [SUCCESS] nonebot | Succeeded to import "timework"
+The Zen of Python, by Tim Peters
+
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
+07-12 03:41:43 [SUCCESS] nonebot | Succeeded to import "huifu"
+07-12 03:41:43 [SUCCESS] nonebot | Succeeded to import "live"
+07-12 03:41:43 [SUCCESS] nonebot | Succeeded to import "tiangou"
+07-12 03:41:44 [SUCCESS] nonebot | Succeeded to import "jitang"
+07-12 03:41:44 [SUCCESS] nonebot | Succeeded to import "chuo"
+07-12 03:41:44 [SUCCESS] nonebot | Succeeded to import "config2"
+07-12 03:41:44 [SUCCESS] nonebot | Succeeded to import "utils"
+07-12 03:41:44 [SUCCESS] nonebot | Succeeded to import "yiyan"
+07-12 03:41:44 [SUCCESS] nonebot | Succeeded to import "image"
+07-12 03:41:44 [SUCCESS] nonebot | Succeeded to import "addSbToBan"
+07-12 03:41:44 [INFO] uvicorn | Started server process [139]
+07-12 03:41:44 [INFO] uvicorn | Waiting for application startup.
+07-12 03:41:44 [INFO] nonebot_plugin_apscheduler | Scheduler Started
+07-12 03:41:44 [INFO] uvicorn | Application startup complete.
+07-12 03:41:49 [INFO] uvicorn | ('127.0.0.1', 53032) - "WebSocket /onebot/v11/ws/" [accepted]
+07-12 03:41:49 [INFO] nonebot | OneBot V11 | Bot 2534354342 connected
+07-12 03:41:49 [INFO] websockets | connection open
+07-12 03:41:49 [SUCCESS] nonebot | ONEBOT V11 2534354342 | [message.group.normal]: Message -1449115610 from 443318033@[群:399549958] "qh"
+07-12 03:41:49 [DEBUG] nonebot | Running PreProcessors...
+07-12 03:41:49 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.LifecycleMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:41:49 [DEBUG] nonebot | Checking for matchers in priority 1...
+07-12 03:41:49 [DEBUG] nonebot | Checking for matchers in priority 4...
+07-12 03:41:49 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.zdhf.huifu, type=message, priority=4, temp=False>
+07-12 03:41:49 [DEBUG] nonebot | Running matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=4, temp=False>
+07-12 03:41:49 [DEBUG] nonebot | Running handler <Dependent call=<function lj at 0x7f3312e6a4d0>, params=[ModelField(name='bot', type=Bot, required=True), ModelField(name='event', type=GroupMessageEvent, required=True), ModelField(name='state', type=Mapping[Any, Any], required=True)], parameterless=[]>
+07-12 03:41:49 [DEBUG] nonebot | OneBot V11 | Calling API send_msg
+07-12 03:41:49 [INFO] nonebot | Matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=4, temp=False> running complete
+07-12 03:41:49 [DEBUG] nonebot | Stop event propagation
+07-12 03:41:51 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:41:56 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:42:00 [WARNING] uvicorn | WatchGodReload detected file change in '['/var/qqbot/qqbots/src/plugins/zdhf/tiangou.py']'. Reloading...
+07-12 03:42:00 [INFO] uvicorn | Shutting down
+07-12 03:42:00 [WARNING] nonebot | OneBot V11 | WebSocket for Bot 2534354342 closed by peer
+07-12 03:42:00 [INFO] websockets | connection closed
+07-12 03:42:00 [INFO] uvicorn | Waiting for application shutdown.
+07-12 03:42:00 [INFO] uvicorn | Application shutdown complete.
+07-12 03:42:00 [INFO] uvicorn | Finished server process [139]
+07-12 03:42:01 [SUCCESS] nonebot | NoneBot is initializing...
+07-12 03:42:01 [INFO] nonebot | Current Env: dev
+07-12 03:42:01 [DEBUG] nonebot | Loaded Config: {'driver': '~fastapi', 'host': IPv4Address('127.0.0.1'), 'port': 8080, 'log_level': 'DEBUG', 'api_timeout': 30.0, 'superusers': {'1623658271'}, 'nickname': set(), 'command_start': {'', ' '}, 'command_sep': {'.'}, 'session_expire_timeout': datetime.timedelta(seconds=120), 'fastapi_reload': True, 'environment': 'dev'}
+07-12 03:42:01 [DEBUG] nonebot | Succeeded to load adapter "OneBot V11"
+07-12 03:42:01 [SUCCESS] nonebot | Succeeded to import "nonebot_plugin_apscheduler"
+07-12 03:42:01 [SUCCESS] nonebot | Succeeded to import "timework"
+07-12 03:42:02 [SUCCESS] nonebot | Succeeded to import "songpicker2"
+The Zen of Python, by Tim Peters
+
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
+07-12 03:42:02 [SUCCESS] nonebot | Succeeded to import "chuo"
+07-12 03:42:02 [SUCCESS] nonebot | Succeeded to import "config2"
+07-12 03:42:02 [SUCCESS] nonebot | Succeeded to import "addSbToBan"
+07-12 03:42:02 [SUCCESS] nonebot | Succeeded to import "tiangou"
+07-12 03:42:02 [SUCCESS] nonebot | Succeeded to import "live"
+07-12 03:42:02 [SUCCESS] nonebot | Succeeded to import "jitang"
+07-12 03:42:02 [SUCCESS] nonebot | Succeeded to import "image"
+07-12 03:42:02 [SUCCESS] nonebot | Succeeded to import "utils"
+07-12 03:42:02 [SUCCESS] nonebot | Succeeded to import "yiyan"
+07-12 03:42:02 [SUCCESS] nonebot | Succeeded to import "huifu"
+07-12 03:42:02 [INFO] uvicorn | Started server process [143]
+07-12 03:42:02 [INFO] uvicorn | Waiting for application startup.
+07-12 03:42:02 [INFO] nonebot_plugin_apscheduler | Scheduler Started
+07-12 03:42:02 [INFO] uvicorn | Application startup complete.
+07-12 03:42:09 [INFO] uvicorn | ('127.0.0.1', 53054) - "WebSocket /onebot/v11/ws/" [accepted]
+07-12 03:42:09 [INFO] nonebot | OneBot V11 | Bot 2534354342 connected
+07-12 03:42:09 [INFO] websockets | connection open
+07-12 03:42:09 [SUCCESS] nonebot | ONEBOT V11 2534354342 | [message.group.normal]: Message 1310223649 from 1623658271@[群:399549958] "tg"
+07-12 03:42:09 [DEBUG] nonebot | Running PreProcessors...
+07-12 03:42:09 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.LifecycleMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:42:09 [DEBUG] nonebot | Checking for matchers in priority 1...
+07-12 03:42:09 [DEBUG] nonebot | Checking for matchers in priority 4...
+07-12 03:42:09 [DEBUG] nonebot | Checking for matchers in priority 5...
+07-12 03:42:09 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False>
+07-12 03:42:09 [DEBUG] nonebot | Running matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False>
+07-12 03:42:09 [DEBUG] nonebot | Running handler <Dependent call=<function smartReply at 0x7f6e87049240>, params=[ModelField(name='event', type=Event, required=True), ModelField(name='foo', type=bool, required=True), ModelField(name='state', type=Mapping[Any, Any], required=True)], parameterless=[]>
+07-12 03:42:09 [INFO] nonebot | Matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False> running complete
+07-12 03:42:09 [DEBUG] nonebot | Stop event propagation
+07-12 03:42:11 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:42:16 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:42:17 [SUCCESS] nonebot | ONEBOT V11 2534354342 | [message.group.normal]: Message 786425028 from 1623658271@[群:399549958] "tg"
+07-12 03:42:17 [DEBUG] nonebot | Running PreProcessors...
+07-12 03:42:17 [DEBUG] nonebot | Checking for matchers in priority 1...
+07-12 03:42:17 [DEBUG] nonebot | Checking for matchers in priority 4...
+07-12 03:42:17 [DEBUG] nonebot | Checking for matchers in priority 5...
+07-12 03:42:17 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False>
+07-12 03:42:17 [DEBUG] nonebot | Running matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False>
+07-12 03:42:17 [DEBUG] nonebot | Running handler <Dependent call=<function smartReply at 0x7f6e87049240>, params=[ModelField(name='event', type=Event, required=True), ModelField(name='foo', type=bool, required=True), ModelField(name='state', type=Mapping[Any, Any], required=True)], parameterless=[]>
+07-12 03:42:17 [INFO] nonebot | Matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False> running complete
+07-12 03:42:17 [DEBUG] nonebot | Stop event propagation
+07-12 03:42:21 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:42:24 [SUCCESS] nonebot | ONEBOT V11 2534354342 | [message.group.normal]: Message 1507382354 from 1623658271@[群:399549958] "qh"
+07-12 03:42:24 [DEBUG] nonebot | Running PreProcessors...
+07-12 03:42:24 [DEBUG] nonebot | Checking for matchers in priority 1...
+07-12 03:42:24 [DEBUG] nonebot | Checking for matchers in priority 4...
+07-12 03:42:24 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.zdhf.huifu, type=message, priority=4, temp=False>
+07-12 03:42:24 [DEBUG] nonebot | Running matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=4, temp=False>
+07-12 03:42:24 [DEBUG] nonebot | Running handler <Dependent call=<function lj at 0x7f6e870492d0>, params=[ModelField(name='bot', type=Bot, required=True), ModelField(name='event', type=GroupMessageEvent, required=True), ModelField(name='state', type=Mapping[Any, Any], required=True)], parameterless=[]>
+07-12 03:42:25 [DEBUG] nonebot | OneBot V11 | Calling API send_msg
+07-12 03:42:25 [INFO] nonebot | Matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=4, temp=False> running complete
+07-12 03:42:25 [DEBUG] nonebot | Stop event propagation
+07-12 03:42:26 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:42:31 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:42:36 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:42:41 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:42:46 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:42:51 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:42:55 [WARNING] uvicorn | WatchGodReload detected file change in '['/var/qqbot/qqbots/src/plugins/zdhf/tiangou.py']'. Reloading...
+07-12 03:42:55 [INFO] uvicorn | Shutting down
+07-12 03:42:55 [WARNING] nonebot | OneBot V11 | WebSocket for Bot 2534354342 closed by peer
+07-12 03:42:55 [INFO] websockets | connection closed
+07-12 03:42:56 [INFO] uvicorn | Waiting for application shutdown.
+07-12 03:42:56 [INFO] uvicorn | Application shutdown complete.
+07-12 03:42:56 [INFO] uvicorn | Finished server process [143]
+07-12 03:42:56 [SUCCESS] nonebot | NoneBot is initializing...
+07-12 03:42:56 [INFO] nonebot | Current Env: dev
+07-12 03:42:56 [DEBUG] nonebot | Loaded Config: {'driver': '~fastapi', 'host': IPv4Address('127.0.0.1'), 'port': 8080, 'log_level': 'DEBUG', 'api_timeout': 30.0, 'superusers': {'1623658271'}, 'nickname': set(), 'command_start': {'', ' '}, 'command_sep': {'.'}, 'session_expire_timeout': datetime.timedelta(seconds=120), 'fastapi_reload': True, 'environment': 'dev'}
+07-12 03:42:56 [DEBUG] nonebot | Succeeded to load adapter "OneBot V11"
+07-12 03:42:57 [SUCCESS] nonebot | Succeeded to import "nonebot_plugin_apscheduler"
+07-12 03:42:57 [SUCCESS] nonebot | Succeeded to import "timework"
+07-12 03:42:57 [SUCCESS] nonebot | Succeeded to import "songpicker2"
+The Zen of Python, by Tim Peters
+
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
+07-12 03:42:57 [SUCCESS] nonebot | Succeeded to import "addSbToBan"
+07-12 03:42:57 [SUCCESS] nonebot | Succeeded to import "utils"
+07-12 03:42:57 [SUCCESS] nonebot | Succeeded to import "yiyan"
+07-12 03:42:57 [SUCCESS] nonebot | Succeeded to import "jitang"
+07-12 03:42:57 [SUCCESS] nonebot | Succeeded to import "image"
+07-12 03:42:57 [SUCCESS] nonebot | Succeeded to import "config2"
+07-12 03:42:57 [SUCCESS] nonebot | Succeeded to import "huifu"
+07-12 03:42:57 [SUCCESS] nonebot | Succeeded to import "chuo"
+07-12 03:42:57 [SUCCESS] nonebot | Succeeded to import "tiangou"
+07-12 03:42:57 [SUCCESS] nonebot | Succeeded to import "live"
+07-12 03:42:57 [INFO] uvicorn | Started server process [146]
+07-12 03:42:57 [INFO] uvicorn | Waiting for application startup.
+07-12 03:42:57 [INFO] nonebot_plugin_apscheduler | Scheduler Started
+07-12 03:42:57 [INFO] uvicorn | Application startup complete.
+07-12 03:43:04 [INFO] uvicorn | ('127.0.0.1', 53110) - "WebSocket /onebot/v11/ws/" [accepted]
+07-12 03:43:04 [INFO] nonebot | OneBot V11 | Bot 2534354342 connected
+07-12 03:43:04 [INFO] websockets | connection open
+07-12 03:43:04 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.LifecycleMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:43:06 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:43:11 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:43:16 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:43:20 [WARNING] uvicorn | WatchGodReload detected file change in '['/var/qqbot/qqbots/src/plugins/zdhf/tiangou.py']'. Reloading...
+07-12 03:43:20 [INFO] uvicorn | Shutting down
+07-12 03:43:20 [WARNING] nonebot | OneBot V11 | WebSocket for Bot 2534354342 closed by peer
+07-12 03:43:20 [INFO] websockets | connection closed
+07-12 03:43:20 [INFO] uvicorn | Waiting for application shutdown.
+07-12 03:43:20 [INFO] uvicorn | Application shutdown complete.
+07-12 03:43:20 [INFO] uvicorn | Finished server process [146]
+07-12 03:43:21 [SUCCESS] nonebot | NoneBot is initializing...
+07-12 03:43:21 [INFO] nonebot | Current Env: dev
+07-12 03:43:21 [DEBUG] nonebot | Loaded Config: {'driver': '~fastapi', 'host': IPv4Address('127.0.0.1'), 'port': 8080, 'log_level': 'DEBUG', 'api_timeout': 30.0, 'superusers': {'1623658271'}, 'nickname': set(), 'command_start': {'', ' '}, 'command_sep': {'.'}, 'session_expire_timeout': datetime.timedelta(seconds=120), 'fastapi_reload': True, 'environment': 'dev'}
+07-12 03:43:21 [DEBUG] nonebot | Succeeded to load adapter "OneBot V11"
+07-12 03:43:21 [SUCCESS] nonebot | Succeeded to import "songpicker2"
+07-12 03:43:21 [SUCCESS] nonebot | Succeeded to import "nonebot_plugin_apscheduler"
+07-12 03:43:21 [SUCCESS] nonebot | Succeeded to import "timework"
+The Zen of Python, by Tim Peters
+
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
+07-12 03:43:21 [SUCCESS] nonebot | Succeeded to import "live"
+07-12 03:43:21 [SUCCESS] nonebot | Succeeded to import "image"
+07-12 03:43:21 [SUCCESS] nonebot | Succeeded to import "utils"
+07-12 03:43:21 [SUCCESS] nonebot | Succeeded to import "config2"
+07-12 03:43:21 [SUCCESS] nonebot | Succeeded to import "tiangou"
+07-12 03:43:21 [SUCCESS] nonebot | Succeeded to import "chuo"
+07-12 03:43:22 [SUCCESS] nonebot | Succeeded to import "addSbToBan"
+07-12 03:43:22 [SUCCESS] nonebot | Succeeded to import "huifu"
+07-12 03:43:22 [SUCCESS] nonebot | Succeeded to import "yiyan"
+07-12 03:43:22 [SUCCESS] nonebot | Succeeded to import "jitang"
+07-12 03:43:22 [INFO] uvicorn | Started server process [147]
+07-12 03:43:22 [INFO] uvicorn | Waiting for application startup.
+07-12 03:43:22 [INFO] nonebot_plugin_apscheduler | Scheduler Started
+07-12 03:43:22 [INFO] uvicorn | Application startup complete.
+07-12 03:43:25 [INFO] uvicorn | ('127.0.0.1', 53138) - "WebSocket /onebot/v11/ws/" [accepted]
+07-12 03:43:25 [INFO] nonebot | OneBot V11 | Bot 2534354342 connected
+07-12 03:43:25 [INFO] websockets | connection open
+07-12 03:43:25 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.LifecycleMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:43:26 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:43:30 [SUCCESS] nonebot | ONEBOT V11 2534354342 | [message.group.normal]: Message 699539677 from 1623658271@[群:399549958] "tg"
+07-12 03:43:30 [DEBUG] nonebot | Running PreProcessors...
+07-12 03:43:30 [DEBUG] nonebot | Checking for matchers in priority 1...
+07-12 03:43:30 [DEBUG] nonebot | Checking for matchers in priority 4...
+07-12 03:43:30 [DEBUG] nonebot | Checking for matchers in priority 5...
+07-12 03:43:30 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False>
+07-12 03:43:30 [DEBUG] nonebot | Running matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False>
+07-12 03:43:30 [DEBUG] nonebot | Running handler <Dependent call=<function smartReply at 0x7fd1e303cca0>, params=[ModelField(name='event', type=Event, required=True), ModelField(name='foo', type=bool, required=True), ModelField(name='state', type=Mapping[Any, Any], required=True)], parameterless=[]>
+07-12 03:43:30 [INFO] nonebot | Matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False> running complete
+07-12 03:43:30 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.zdhf.tiangou, type=message, priority=5, temp=False>
+07-12 03:43:30 [DEBUG] nonebot | Running matcher <Matcher from src.plugins.zdhf.tiangou, type=message, priority=5, temp=False>
+07-12 03:43:30 [DEBUG] nonebot | Running handler <Dependent call=<function lj at 0x7fd1e300f6d0>, params=[ModelField(name='bot', type=Bot, required=True), ModelField(name='event', type=Event, required=True), ModelField(name='state', type=Mapping[Any, Any], required=True)], parameterless=[]>
+07-12 03:43:30 [DEBUG] nonebot | OneBot V11 | Calling API send_msg
+07-12 03:43:31 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:43:31 [INFO] nonebot | Matcher <Matcher from src.plugins.zdhf.tiangou, type=message, priority=5, temp=False> running complete
+07-12 03:43:31 [DEBUG] nonebot | Stop event propagation
+07-12 03:43:31 [DEBUG] nonebot | Stop event propagation
+07-12 03:43:36 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:43:41 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:43:46 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:43:51 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:43:56 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:43:59 [SUCCESS] nonebot | ONEBOT V11 2534354342 | [message.group.normal]: Message -943963663 from 1623658271@[群:399549958] "ch"
+07-12 03:43:59 [DEBUG] nonebot | Running PreProcessors...
+07-12 03:43:59 [DEBUG] nonebot | Checking for matchers in priority 1...
+07-12 03:43:59 [DEBUG] nonebot | Checking for matchers in priority 4...
+07-12 03:43:59 [DEBUG] nonebot | Checking for matchers in priority 5...
+07-12 03:43:59 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False>
+07-12 03:43:59 [DEBUG] nonebot | Running matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False>
+07-12 03:43:59 [DEBUG] nonebot | Running handler <Dependent call=<function smartReply at 0x7fd1e303cca0>, params=[ModelField(name='event', type=Event, required=True), ModelField(name='foo', type=bool, required=True), ModelField(name='state', type=Mapping[Any, Any], required=True)], parameterless=[]>
+07-12 03:43:59 [INFO] nonebot | Matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False> running complete
+07-12 03:43:59 [DEBUG] nonebot | Stop event propagation
+07-12 03:44:01 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:44:06 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:44:10 [WARNING] uvicorn | WatchGodReload detected file change in '['/var/qqbot/qqbots/src/plugins/zdhf/live.py']'. Reloading...
+07-12 03:44:10 [INFO] uvicorn | Shutting down
+07-12 03:44:10 [WARNING] nonebot | OneBot V11 | WebSocket for Bot 2534354342 closed by peer
+07-12 03:44:10 [INFO] websockets | connection closed
+07-12 03:44:10 [INFO] uvicorn | Waiting for application shutdown.
+07-12 03:44:10 [INFO] uvicorn | Application shutdown complete.
+07-12 03:44:10 [INFO] uvicorn | Finished server process [147]
+07-12 03:44:11 [SUCCESS] nonebot | NoneBot is initializing...
+07-12 03:44:11 [INFO] nonebot | Current Env: dev
+07-12 03:44:11 [DEBUG] nonebot | Loaded Config: {'driver': '~fastapi', 'host': IPv4Address('127.0.0.1'), 'port': 8080, 'log_level': 'DEBUG', 'api_timeout': 30.0, 'superusers': {'1623658271'}, 'nickname': set(), 'command_start': {'', ' '}, 'command_sep': {'.'}, 'session_expire_timeout': datetime.timedelta(seconds=120), 'environment': 'dev', 'fastapi_reload': True}
+07-12 03:44:11 [DEBUG] nonebot | Succeeded to load adapter "OneBot V11"
+07-12 03:44:11 [SUCCESS] nonebot | Succeeded to import "nonebot_plugin_apscheduler"
+07-12 03:44:11 [SUCCESS] nonebot | Succeeded to import "timework"
+07-12 03:44:11 [SUCCESS] nonebot | Succeeded to import "songpicker2"
+The Zen of Python, by Tim Peters
+
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
+07-12 03:44:12 [SUCCESS] nonebot | Succeeded to import "addSbToBan"
+07-12 03:44:12 [SUCCESS] nonebot | Succeeded to import "yiyan"
+07-12 03:44:12 [SUCCESS] nonebot | Succeeded to import "utils"
+07-12 03:44:12 [SUCCESS] nonebot | Succeeded to import "chuo"
+07-12 03:44:12 [SUCCESS] nonebot | Succeeded to import "live"
+07-12 03:44:12 [SUCCESS] nonebot | Succeeded to import "tiangou"
+07-12 03:44:12 [SUCCESS] nonebot | Succeeded to import "config2"
+07-12 03:44:12 [SUCCESS] nonebot | Succeeded to import "jitang"
+07-12 03:44:12 [SUCCESS] nonebot | Succeeded to import "image"
+07-12 03:44:12 [SUCCESS] nonebot | Succeeded to import "huifu"
+07-12 03:44:12 [INFO] uvicorn | Started server process [150]
+07-12 03:44:12 [INFO] uvicorn | Waiting for application startup.
+07-12 03:44:12 [INFO] nonebot_plugin_apscheduler | Scheduler Started
+07-12 03:44:12 [INFO] uvicorn | Application startup complete.
+07-12 03:44:19 [INFO] uvicorn | ('127.0.0.1', 53206) - "WebSocket /onebot/v11/ws/" [accepted]
+07-12 03:44:19 [INFO] nonebot | OneBot V11 | Bot 2534354342 connected
+07-12 03:44:19 [INFO] websockets | connection open
+07-12 03:44:19 [SUCCESS] nonebot | ONEBOT V11 2534354342 | [message.group.normal]: Message -1329893017 from 1623658271@[群:399549958] "ch"
+07-12 03:44:19 [DEBUG] nonebot | Running PreProcessors...
+07-12 03:44:19 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.LifecycleMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:44:19 [DEBUG] nonebot | Checking for matchers in priority 1...
+07-12 03:44:19 [DEBUG] nonebot | Checking for matchers in priority 4...
+07-12 03:44:19 [DEBUG] nonebot | Checking for matchers in priority 5...
+07-12 03:44:19 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False>
+07-12 03:44:19 [DEBUG] nonebot | Running matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False>
+07-12 03:44:19 [DEBUG] nonebot | Running handler <Dependent call=<function smartReply at 0x7f317320d240>, params=[ModelField(name='event', type=Event, required=True), ModelField(name='foo', type=bool, required=True), ModelField(name='state', type=Mapping[Any, Any], required=True)], parameterless=[]>
+07-12 03:44:19 [INFO] nonebot | Matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False> running complete
+07-12 03:44:19 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.zdhf.live, type=message, priority=5, temp=False>
+07-12 03:44:19 [DEBUG] nonebot | Running matcher <Matcher from src.plugins.zdhf.live, type=message, priority=5, temp=False>
+07-12 03:44:19 [DEBUG] nonebot | Running handler <Dependent call=<function get_live_time at 0x7f3173ad6e60>, params=[ModelField(name='bot', type=Bot, required=True), ModelField(name='state', type=Mapping[Any, Any], required=True), ModelField(name='event', type=Event, required=True)], parameterless=[DependParam()]>
+07-12 03:44:19 [DEBUG] nonebot | OneBot V11 | Calling API send_msg
+07-12 03:44:19 [SUCCESS] nonebot | ONEBOT V11 2534354342 | [message.group.normal]: Message 537160950 from 1623658271@[群:399549958] "ch"
+07-12 03:44:19 [DEBUG] nonebot | Running PreProcessors...
+07-12 03:44:19 [DEBUG] nonebot | Checking for matchers in priority 1...
+07-12 03:44:19 [DEBUG] nonebot | Checking for matchers in priority 4...
+07-12 03:44:19 [DEBUG] nonebot | Checking for matchers in priority 5...
+07-12 03:44:19 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False>
+07-12 03:44:19 [DEBUG] nonebot | Running matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False>
+07-12 03:44:19 [DEBUG] nonebot | Running handler <Dependent call=<function smartReply at 0x7f317320d240>, params=[ModelField(name='event', type=Event, required=True), ModelField(name='foo', type=bool, required=True), ModelField(name='state', type=Mapping[Any, Any], required=True)], parameterless=[]>
+07-12 03:44:19 [INFO] nonebot | Matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False> running complete
+07-12 03:44:19 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.zdhf.live, type=message, priority=5, temp=False>
+07-12 03:44:19 [DEBUG] nonebot | Running matcher <Matcher from src.plugins.zdhf.live, type=message, priority=5, temp=False>
+07-12 03:44:19 [DEBUG] nonebot | Running handler <Dependent call=<function get_live_time at 0x7f3173ad6e60>, params=[ModelField(name='bot', type=Bot, required=True), ModelField(name='state', type=Mapping[Any, Any], required=True), ModelField(name='event', type=Event, required=True)], parameterless=[DependParam()]>
+07-12 03:44:19 [DEBUG] nonebot | OneBot V11 | Calling API send_msg
+07-12 03:44:19 [INFO] nonebot | Matcher <Matcher from src.plugins.zdhf.live, type=message, priority=5, temp=False> running complete
+07-12 03:44:19 [DEBUG] nonebot | Stop event propagation
+07-12 03:44:19 [DEBUG] nonebot | Stop event propagation
+07-12 03:44:19 [INFO] nonebot | Matcher <Matcher from src.plugins.zdhf.live, type=message, priority=5, temp=False> running complete
+07-12 03:44:19 [DEBUG] nonebot | Stop event propagation
+07-12 03:44:19 [DEBUG] nonebot | Stop event propagation
+07-12 03:44:21 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:44:24 [SUCCESS] nonebot | ONEBOT V11 2534354342 | [message.group.normal]: Message 1928693649 from 1623658271@[群:399549958] "取消"
+07-12 03:44:24 [DEBUG] nonebot | Running PreProcessors...
+07-12 03:44:24 [DEBUG] nonebot | Checking for matchers in priority 0...
+07-12 03:44:24 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.zdhf.live, type=message, priority=0, temp=True>
+07-12 03:44:24 [DEBUG] nonebot | Running matcher <Matcher from src.plugins.zdhf.live, type=message, priority=0, temp=True>
+07-12 03:44:24 [DEBUG] nonebot | Running handler <Dependent call=<function get_live_time at 0x7f3173ad6e60>, params=[ModelField(name='bot', type=Bot, required=True), ModelField(name='state', type=Mapping[Any, Any], required=True), ModelField(name='event', type=Event, required=True)], parameterless=[DependParam()]>
+07-12 03:44:24 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.zdhf.live, type=message, priority=0, temp=True>
+07-12 03:44:24 [DEBUG] nonebot | Running matcher <Matcher from src.plugins.zdhf.live, type=message, priority=0, temp=True>
+07-12 03:44:24 [DEBUG] nonebot | Running handler <Dependent call=<function get_live_time at 0x7f3173ad6e60>, params=[ModelField(name='bot', type=Bot, required=True), ModelField(name='state', type=Mapping[Any, Any], required=True), ModelField(name='event', type=Event, required=True)], parameterless=[DependParam()]>
+07-12 03:44:24 [DEBUG] nonebot | OneBot V11 | Calling API send_msg
+07-12 03:44:24 [INFO] nonebot | Matcher <Matcher from src.plugins.zdhf.live, type=message, priority=0, temp=True> running complete
+07-12 03:44:24 [ERROR] nonebot | Running matcher <Matcher from src.plugins.zdhf.live, type=message, priority=0, temp=True> failed.
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/usr/local/lib/python3.10/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/usr/local/lib/python3.10/multiprocessing/spawn.py", line 129, in _main
+    return self._bootstrap(parent_sentinel)
+  File "/usr/local/lib/python3.10/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/lib/python3.10/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/usr/local/lib/python3.10/site-packages/uvicorn/subprocess.py", line 76, in subprocess_started
+    target(sockets=sockets)
+  File "/usr/local/lib/python3.10/site-packages/uvicorn/server.py", line 60, in run
+    return asyncio.run(self.serve(sockets=sockets))
+  File "/usr/local/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/local/lib/python3.10/site-packages/nonebot/message.py", line 146, in _check_matcher
+    await _run_matcher(Matcher, bot, event, state, stack, dependency_cache)
+> File "/usr/local/lib/python3.10/site-packages/nonebot/message.py", line 196, in _run_matcher
+    await matcher.run(bot, event, state, stack, dependency_cache)
+  File "/usr/local/lib/python3.10/site-packages/nonebot/internal/matcher.py", line 668, in run
+    await self.simple_run(bot, event, state, stack, dependency_cache)
+  File "/usr/local/lib/python3.10/site-packages/nonebot/internal/matcher.py", line 635, in simple_run
+    await handler(
+  File "/usr/local/lib/python3.10/site-packages/nonebot/dependencies/__init__.py", line 92, in __call__
+    return await self.call(**values)
+  File "/var/qqbot/qqbots/./src/plugins/zdhf/live.py", line 19, in get_live_time
+    a = state['live']
+KeyError: 'live'
+07-12 03:44:24 [INFO] nonebot | Matcher <Matcher from src.plugins.zdhf.live, type=message, priority=0, temp=True> running complete
+07-12 03:44:24 [DEBUG] nonebot | Stop event propagation
+07-12 03:44:24 [DEBUG] nonebot | Stop event propagation
+07-12 03:44:26 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:44:26 [SUCCESS] nonebot | ONEBOT V11 2534354342 | [message.group.normal]: Message -1661212995 from 2259202040@[群:399549958] "ch"
+07-12 03:44:26 [DEBUG] nonebot | Running PreProcessors...
+07-12 03:44:26 [DEBUG] nonebot | Checking for matchers in priority 0...
+07-12 03:44:26 [DEBUG] nonebot | Checking for matchers in priority 1...
+07-12 03:44:26 [DEBUG] nonebot | Checking for matchers in priority 4...
+07-12 03:44:26 [DEBUG] nonebot | Checking for matchers in priority 5...
+07-12 03:44:26 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False>
+07-12 03:44:26 [DEBUG] nonebot | Running matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False>
+07-12 03:44:26 [DEBUG] nonebot | Running handler <Dependent call=<function smartReply at 0x7f317320d240>, params=[ModelField(name='event', type=Event, required=True), ModelField(name='foo', type=bool, required=True), ModelField(name='state', type=Mapping[Any, Any], required=True)], parameterless=[]>
+07-12 03:44:26 [INFO] nonebot | Matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False> running complete
+07-12 03:44:26 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.zdhf.live, type=message, priority=5, temp=False>
+07-12 03:44:26 [DEBUG] nonebot | Running matcher <Matcher from src.plugins.zdhf.live, type=message, priority=5, temp=False>
+07-12 03:44:26 [DEBUG] nonebot | Running handler <Dependent call=<function get_live_time at 0x7f3173ad6e60>, params=[ModelField(name='bot', type=Bot, required=True), ModelField(name='state', type=Mapping[Any, Any], required=True), ModelField(name='event', type=Event, required=True)], parameterless=[DependParam()]>
+07-12 03:44:26 [DEBUG] nonebot | OneBot V11 | Calling API send_msg
+07-12 03:44:26 [INFO] nonebot | Matcher <Matcher from src.plugins.zdhf.live, type=message, priority=5, temp=False> running complete
+07-12 03:44:26 [DEBUG] nonebot | Stop event propagation
+07-12 03:44:26 [DEBUG] nonebot | Stop event propagation
+07-12 03:44:31 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:44:36 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:44:38 [SUCCESS] nonebot | ONEBOT V11 2534354342 | [message.group.normal]: Message 1972913032 from 1623658271@[群:399549958] "英语"
+07-12 03:44:38 [DEBUG] nonebot | Running PreProcessors...
+07-12 03:44:38 [DEBUG] nonebot | Checking for matchers in priority 0...
+07-12 03:44:38 [DEBUG] nonebot | Checking for matchers in priority 1...
+07-12 03:44:38 [DEBUG] nonebot | Checking for matchers in priority 4...
+07-12 03:44:38 [DEBUG] nonebot | Checking for matchers in priority 5...
+07-12 03:44:38 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False>
+07-12 03:44:38 [DEBUG] nonebot | Running matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False>
+07-12 03:44:38 [DEBUG] nonebot | Running handler <Dependent call=<function smartReply at 0x7f317320d240>, params=[ModelField(name='event', type=Event, required=True), ModelField(name='foo', type=bool, required=True), ModelField(name='state', type=Mapping[Any, Any], required=True)], parameterless=[]>
+07-12 03:44:38 [INFO] nonebot | Matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False> running complete
+07-12 03:44:38 [DEBUG] nonebot | Stop event propagation
+07-12 03:44:40 [SUCCESS] nonebot | ONEBOT V11 2534354342 | [notice.group_recall]: {'time': 1657597478, 'self_id': 2534354342, 'post_type': 'notice', 'notice_type': 'group_recall', 'user_id': 1623658271, 'group_id': 399549958, 'operator_id': 1623658271, 'message_id': 1972913032}
+07-12 03:44:40 [DEBUG] nonebot | Running PreProcessors...
+07-12 03:44:40 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.GroupRecallNoticeEvent'> not match annotation MessageEvent, ignored
+07-12 03:44:40 [DEBUG] nonebot | Checking for matchers in priority 0...
+07-12 03:44:40 [DEBUG] nonebot | Checking for matchers in priority 1...
+07-12 03:44:40 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.zdhf.chuo, type=notice, priority=1, temp=False>
+07-12 03:44:40 [DEBUG] nonebot | Running matcher <Matcher from src.plugins.zdhf.chuo, type=notice, priority=1, temp=False>
+07-12 03:44:40 [DEBUG] nonebot | Running handler <Dependent call=<function handle_first_receive at 0x7f3173ad6b90>, params=[ModelField(name='bot', type=Bot, required=True), ModelField(name='event', type=Event, required=True), ModelField(name='state', type=Mapping[Any, Any], required=True)], parameterless=[]>
+07-12 03:44:40 [INFO] nonebot | Matcher <Matcher from src.plugins.zdhf.chuo, type=notice, priority=1, temp=False> running complete
+07-12 03:44:40 [DEBUG] nonebot | Checking for matchers in priority 4...
+07-12 03:44:40 [DEBUG] nonebot | Checking for matchers in priority 5...
+07-12 03:44:40 [DEBUG] nonebot | Checking for matchers in priority 6...
+07-12 03:44:41 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:44:42 [SUCCESS] nonebot | ONEBOT V11 2534354342 | [message.group.normal]: Message -326036942 from 1623658271@[群:399549958] "yy"
+07-12 03:44:42 [DEBUG] nonebot | Running PreProcessors...
+07-12 03:44:42 [DEBUG] nonebot | Checking for matchers in priority 0...
+07-12 03:44:42 [DEBUG] nonebot | Checking for matchers in priority 1...
+07-12 03:44:42 [DEBUG] nonebot | Checking for matchers in priority 4...
+07-12 03:44:42 [DEBUG] nonebot | Checking for matchers in priority 5...
+07-12 03:44:42 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False>
+07-12 03:44:42 [DEBUG] nonebot | Running matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False>
+07-12 03:44:42 [DEBUG] nonebot | Running handler <Dependent call=<function smartReply at 0x7f317320d240>, params=[ModelField(name='event', type=Event, required=True), ModelField(name='foo', type=bool, required=True), ModelField(name='state', type=Mapping[Any, Any], required=True)], parameterless=[]>
+07-12 03:44:42 [INFO] nonebot | Matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False> running complete
+07-12 03:44:42 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.zdhf.yiyan, type=message, priority=5, temp=False>
+07-12 03:44:42 [DEBUG] nonebot | Running matcher <Matcher from src.plugins.zdhf.yiyan, type=message, priority=5, temp=False>
+07-12 03:44:42 [DEBUG] nonebot | Running handler <Dependent call=<function hitokoto at 0x7f3173ad64d0>, params=[ModelField(name='matcher', type=Matcher, required=True), ModelField(name='event', type=Event, required=True)], parameterless=[]>
+07-12 03:44:42 [DEBUG] nonebot | OneBot V11 | Calling API send_msg
+07-12 03:44:42 [INFO] nonebot | Matcher <Matcher from src.plugins.zdhf.yiyan, type=message, priority=5, temp=False> running complete
+07-12 03:44:42 [DEBUG] nonebot | Stop event propagation
+07-12 03:44:42 [DEBUG] nonebot | Stop event propagation
+07-12 03:44:46 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:44:46 [SUCCESS] nonebot | ONEBOT V11 2534354342 | [message.group.normal]: Message 187252533 from 2259202040@[群:399549958] "2022 9 9"
+07-12 03:44:46 [DEBUG] nonebot | Running PreProcessors...
+07-12 03:44:46 [DEBUG] nonebot | Checking for matchers in priority 0...
+07-12 03:44:46 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.zdhf.live, type=message, priority=0, temp=True>
+07-12 03:44:46 [DEBUG] nonebot | Running matcher <Matcher from src.plugins.zdhf.live, type=message, priority=0, temp=True>
+07-12 03:44:46 [DEBUG] nonebot | Running handler <Dependent call=<function get_live_time at 0x7f3173ad6e60>, params=[ModelField(name='bot', type=Bot, required=True), ModelField(name='state', type=Mapping[Any, Any], required=True), ModelField(name='event', type=Event, required=True)], parameterless=[DependParam()]>
+07-12 03:44:46 [DEBUG] nonebot | OneBot V11 | Calling API send_msg
+07-12 03:44:46 [INFO] nonebot | Matcher <Matcher from src.plugins.zdhf.live, type=message, priority=0, temp=True> running complete
+07-12 03:44:46 [DEBUG] nonebot | Stop event propagation
+07-12 03:44:51 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:44:56 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:44:57 [SUCCESS] nonebot | ONEBOT V11 2534354342 | [message.group.normal]: Message 485066310 from 2259202040@[群:399549958] "yy"
+07-12 03:44:57 [DEBUG] nonebot | Running PreProcessors...
+07-12 03:44:57 [DEBUG] nonebot | Checking for matchers in priority 0...
+07-12 03:44:57 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.zdhf.live, type=message, priority=0, temp=True>
+07-12 03:44:57 [DEBUG] nonebot | Running matcher <Matcher from src.plugins.zdhf.live, type=message, priority=0, temp=True>
+07-12 03:44:57 [DEBUG] nonebot | Running handler <Dependent call=<function get_live_time at 0x7f3173ad6e60>, params=[ModelField(name='bot', type=Bot, required=True), ModelField(name='state', type=Mapping[Any, Any], required=True), ModelField(name='event', type=Event, required=True)], parameterless=[DependParam()]>
+07-12 03:44:57 [DEBUG] nonebot | OneBot V11 | Calling API send_msg
+07-12 03:44:58 [INFO] nonebot | Matcher <Matcher from src.plugins.zdhf.live, type=message, priority=0, temp=True> running complete
+07-12 03:44:58 [DEBUG] nonebot | Stop event propagation
+07-12 03:45:00 [SUCCESS] nonebot | ONEBOT V11 2534354342 | [message.group.normal]: Message -219682966 from 1623658271@[群:399549958] "挑战托福"
+07-12 03:45:00 [DEBUG] nonebot | Running PreProcessors...
+07-12 03:45:00 [DEBUG] nonebot | Checking for matchers in priority 0...
+07-12 03:45:00 [DEBUG] nonebot | Checking for matchers in priority 1...
+07-12 03:45:00 [DEBUG] nonebot | Checking for matchers in priority 4...
+07-12 03:45:00 [DEBUG] nonebot | Checking for matchers in priority 5...
+07-12 03:45:00 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False>
+07-12 03:45:00 [DEBUG] nonebot | Running matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False>
+07-12 03:45:00 [DEBUG] nonebot | Running handler <Dependent call=<function smartReply at 0x7f317320d240>, params=[ModelField(name='event', type=Event, required=True), ModelField(name='foo', type=bool, required=True), ModelField(name='state', type=Mapping[Any, Any], required=True)], parameterless=[]>
+07-12 03:45:01 [DEBUG] nonebot | OneBot V11 | Calling API send_msg
+07-12 03:45:01 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:45:01 [INFO] nonebot | Matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False> running complete
+07-12 03:45:01 [DEBUG] nonebot | Stop event propagation
+07-12 03:45:06 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:45:08 [SUCCESS] nonebot | ONEBOT V11 2534354342 | [message.group.normal]: Message 461652575 from 2259202040@[群:399549958] "取消"
+07-12 03:45:08 [DEBUG] nonebot | Running PreProcessors...
+07-12 03:45:08 [DEBUG] nonebot | Checking for matchers in priority 0...
+07-12 03:45:08 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.zdhf.live, type=message, priority=0, temp=True>
+07-12 03:45:08 [DEBUG] nonebot | Running matcher <Matcher from src.plugins.zdhf.live, type=message, priority=0, temp=True>
+07-12 03:45:08 [DEBUG] nonebot | Running handler <Dependent call=<function get_live_time at 0x7f3173ad6e60>, params=[ModelField(name='bot', type=Bot, required=True), ModelField(name='state', type=Mapping[Any, Any], required=True), ModelField(name='event', type=Event, required=True)], parameterless=[DependParam()]>
+07-12 03:45:08 [DEBUG] nonebot | OneBot V11 | Calling API send_msg
+07-12 03:45:08 [INFO] nonebot | Matcher <Matcher from src.plugins.zdhf.live, type=message, priority=0, temp=True> running complete
+07-12 03:45:08 [DEBUG] nonebot | Stop event propagation
+07-12 03:45:08 [SUCCESS] nonebot | ONEBOT V11 2534354342 | [message.group.normal]: Message -175496333 from 1623658271@[群:399549958] "开始游戏"
+07-12 03:45:08 [DEBUG] nonebot | Running PreProcessors...
+07-12 03:45:08 [DEBUG] nonebot | Checking for matchers in priority 0...
+07-12 03:45:08 [DEBUG] nonebot | Checking for matchers in priority 1...
+07-12 03:45:08 [DEBUG] nonebot | Checking for matchers in priority 4...
+07-12 03:45:08 [DEBUG] nonebot | Checking for matchers in priority 5...
+07-12 03:45:08 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False>
+07-12 03:45:08 [DEBUG] nonebot | Running matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False>
+07-12 03:45:08 [DEBUG] nonebot | Running handler <Dependent call=<function smartReply at 0x7f317320d240>, params=[ModelField(name='event', type=Event, required=True), ModelField(name='foo', type=bool, required=True), ModelField(name='state', type=Mapping[Any, Any], required=True)], parameterless=[]>
+07-12 03:45:09 [DEBUG] nonebot | OneBot V11 | Calling API send_msg
+07-12 03:45:09 [INFO] nonebot | Matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False> running complete
+07-12 03:45:09 [DEBUG] nonebot | Stop event propagation
+07-12 03:45:11 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:45:16 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:45:21 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:45:25 [SUCCESS] nonebot | ONEBOT V11 2534354342 | [message.group.normal]: Message 305270388 from 1623658271@[群:399549958] "动物"
+07-12 03:45:25 [DEBUG] nonebot | Running PreProcessors...
+07-12 03:45:25 [DEBUG] nonebot | Checking for matchers in priority 0...
+07-12 03:45:25 [DEBUG] nonebot | Checking for matchers in priority 1...
+07-12 03:45:25 [DEBUG] nonebot | Checking for matchers in priority 4...
+07-12 03:45:25 [DEBUG] nonebot | Checking for matchers in priority 5...
+07-12 03:45:25 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False>
+07-12 03:45:25 [DEBUG] nonebot | Running matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False>
+07-12 03:45:25 [DEBUG] nonebot | Running handler <Dependent call=<function smartReply at 0x7f317320d240>, params=[ModelField(name='event', type=Event, required=True), ModelField(name='foo', type=bool, required=True), ModelField(name='state', type=Mapping[Any, Any], required=True)], parameterless=[]>
+07-12 03:45:25 [DEBUG] nonebot | OneBot V11 | Calling API send_msg
+07-12 03:45:25 [INFO] nonebot | Matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False> running complete
+07-12 03:45:25 [DEBUG] nonebot | Stop event propagation
+07-12 03:45:26 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:45:31 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:45:36 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:45:37 [SUCCESS] nonebot | ONEBOT V11 2534354342 | [message.group.normal]: Message -1687053687 from 1623658271@[群:399549958] "结束游戏"
+07-12 03:45:37 [DEBUG] nonebot | Running PreProcessors...
+07-12 03:45:37 [DEBUG] nonebot | Checking for matchers in priority 0...
+07-12 03:45:37 [DEBUG] nonebot | Checking for matchers in priority 1...
+07-12 03:45:37 [DEBUG] nonebot | Checking for matchers in priority 4...
+07-12 03:45:37 [DEBUG] nonebot | Checking for matchers in priority 5...
+07-12 03:45:37 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False>
+07-12 03:45:37 [DEBUG] nonebot | Running matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False>
+07-12 03:45:37 [DEBUG] nonebot | Running handler <Dependent call=<function smartReply at 0x7f317320d240>, params=[ModelField(name='event', type=Event, required=True), ModelField(name='foo', type=bool, required=True), ModelField(name='state', type=Mapping[Any, Any], required=True)], parameterless=[]>
+07-12 03:45:37 [DEBUG] nonebot | OneBot V11 | Calling API send_msg
+07-12 03:45:37 [INFO] nonebot | Matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False> running complete
+07-12 03:45:37 [DEBUG] nonebot | Stop event propagation
+07-12 03:45:41 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:45:46 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:45:51 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:45:56 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:46:01 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:46:06 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:46:11 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:46:16 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:46:18 [SUCCESS] nonebot | ONEBOT V11 2534354342 | [message.group.normal]: Message -80054345 from 1623658271@[群:780974990] "功能"
+07-12 03:46:18 [DEBUG] nonebot | Running PreProcessors...
+07-12 03:46:18 [DEBUG] nonebot | Checking for matchers in priority 0...
+07-12 03:46:18 [DEBUG] nonebot | Checking for matchers in priority 1...
+07-12 03:46:18 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.zdhf.huifu, type=message, priority=1, temp=False>
+07-12 03:46:18 [DEBUG] nonebot | Running matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=1, temp=False>
+07-12 03:46:18 [DEBUG] nonebot | Running handler <Dependent call=<function helped at 0x7f317320d360>, params=[ModelField(name='bot', type=Bot, required=True), ModelField(name='event', type=Event, required=True), ModelField(name='state', type=Mapping[Any, Any], required=True)], parameterless=[]>
+07-12 03:46:18 [DEBUG] nonebot | OneBot V11 | Calling API send_msg
+07-12 03:46:18 [INFO] nonebot | Matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=1, temp=False> running complete
+07-12 03:46:18 [DEBUG] nonebot | Stop event propagation
+07-12 03:46:21 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:46:26 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:46:31 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:46:36 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:46:41 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:46:46 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:46:51 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:46:56 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:47:01 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:47:06 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:47:11 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:47:16 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:47:21 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:47:26 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:47:31 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:47:36 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:47:41 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:47:46 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:47:48 [SUCCESS] nonebot | ONEBOT V11 2534354342 | [message.group.normal]: Message 355735195 from 1623658271@[群:780974990] "wy"
+07-12 03:47:48 [DEBUG] nonebot | Running PreProcessors...
+07-12 03:47:48 [DEBUG] nonebot | Checking for matchers in priority 0...
+07-12 03:47:48 [DEBUG] nonebot | Checking for matchers in priority 1...
+07-12 03:47:48 [DEBUG] nonebot | Checking for matchers in priority 4...
+07-12 03:47:48 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.zdhf.huifu, type=message, priority=4, temp=False>
+07-12 03:47:48 [DEBUG] nonebot | Running matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=4, temp=False>
+07-12 03:47:48 [DEBUG] nonebot | Running handler <Dependent call=<function handle_first_receive at 0x7f317320d1b0>, params=[ModelField(name='event', type=Event, required=True)], parameterless=[]>
+07-12 03:47:48 [DEBUG] nonebot | OneBot V11 | Calling API send_msg
+07-12 03:47:48 [INFO] nonebot | Matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=4, temp=False> running complete
+07-12 03:47:48 [DEBUG] nonebot | Stop event propagation
+07-12 03:47:51 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:47:52 [SUCCESS] nonebot | ONEBOT V11 2534354342 | [message.group.normal]: Message -225690724 from 1623658271@[群:780974990] "emo"
+07-12 03:47:52 [DEBUG] nonebot | Running PreProcessors...
+07-12 03:47:52 [DEBUG] nonebot | Checking for matchers in priority 0...
+07-12 03:47:52 [DEBUG] nonebot | Checking for matchers in priority 1...
+07-12 03:47:52 [DEBUG] nonebot | Checking for matchers in priority 4...
+07-12 03:47:52 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.zdhf.huifu, type=message, priority=4, temp=False>
+07-12 03:47:52 [DEBUG] nonebot | Running matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=4, temp=False>
+07-12 03:47:52 [DEBUG] nonebot | Running handler <Dependent call=<function handle_first_receive at 0x7f317320d1b0>, params=[ModelField(name='event', type=Event, required=True)], parameterless=[]>
+07-12 03:47:52 [DEBUG] nonebot | OneBot V11 | Calling API send_msg
+07-12 03:47:53 [INFO] nonebot | Matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=4, temp=False> running complete
+07-12 03:47:53 [DEBUG] nonebot | Stop event propagation
+07-12 03:47:56 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:47:57 [SUCCESS] nonebot | ONEBOT V11 2534354342 | [message.group.normal]: Message -447970577 from 1623658271@[群:780974990] "二次元"
+07-12 03:47:57 [DEBUG] nonebot | Running PreProcessors...
+07-12 03:47:57 [DEBUG] nonebot | Checking for matchers in priority 0...
+07-12 03:47:57 [DEBUG] nonebot | Checking for matchers in priority 1...
+07-12 03:47:57 [DEBUG] nonebot | Checking for matchers in priority 4...
+07-12 03:47:57 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.zdhf.image, type=message, priority=4, temp=False>
+07-12 03:47:57 [DEBUG] nonebot | Running matcher <Matcher from src.plugins.zdhf.image, type=message, priority=4, temp=False>
+07-12 03:47:57 [DEBUG] nonebot | Running handler <Dependent call=<function _ at 0x7f317320c8b0>, params=[ModelField(name='bot', type=Bot, required=True), ModelField(name='event', type=Event, required=True), ModelField(name='state', type=Mapping[Any, Any], required=True)], parameterless=[]>
+07-12 03:47:57 [DEBUG] nonebot | OneBot V11 | Calling API send_msg
+07-12 03:47:59 [INFO] nonebot | Matcher <Matcher from src.plugins.zdhf.image, type=message, priority=4, temp=False> running complete
+07-12 03:47:59 [DEBUG] nonebot | Stop event propagation
+07-12 03:48:01 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:48:06 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:48:09 [SUCCESS] nonebot | ONEBOT V11 2534354342 | [message.group.normal]: Message 188933059 from 1623658271@[群:780974990] "jt"
+07-12 03:48:09 [DEBUG] nonebot | Running PreProcessors...
+07-12 03:48:09 [DEBUG] nonebot | Checking for matchers in priority 0...
+07-12 03:48:09 [DEBUG] nonebot | Checking for matchers in priority 1...
+07-12 03:48:09 [DEBUG] nonebot | Checking for matchers in priority 4...
+07-12 03:48:09 [DEBUG] nonebot | Checking for matchers in priority 5...
+07-12 03:48:09 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False>
+07-12 03:48:09 [DEBUG] nonebot | Running matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False>
+07-12 03:48:09 [DEBUG] nonebot | Running handler <Dependent call=<function smartReply at 0x7f317320d240>, params=[ModelField(name='event', type=Event, required=True), ModelField(name='foo', type=bool, required=True), ModelField(name='state', type=Mapping[Any, Any], required=True)], parameterless=[]>
+07-12 03:48:09 [INFO] nonebot | Matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False> running complete
+07-12 03:48:09 [DEBUG] nonebot | Stop event propagation
+07-12 03:48:11 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:48:16 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:48:18 [SUCCESS] nonebot | ONEBOT V11 2534354342 | [message.group.normal]: Message -1792641440 from 1623658271@[群:780974990] "jt"
+07-12 03:48:18 [DEBUG] nonebot | Running PreProcessors...
+07-12 03:48:18 [DEBUG] nonebot | Checking for matchers in priority 0...
+07-12 03:48:18 [DEBUG] nonebot | Checking for matchers in priority 1...
+07-12 03:48:18 [DEBUG] nonebot | Checking for matchers in priority 4...
+07-12 03:48:18 [DEBUG] nonebot | Checking for matchers in priority 5...
+07-12 03:48:18 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False>
+07-12 03:48:18 [DEBUG] nonebot | Running matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False>
+07-12 03:48:18 [DEBUG] nonebot | Running handler <Dependent call=<function smartReply at 0x7f317320d240>, params=[ModelField(name='event', type=Event, required=True), ModelField(name='foo', type=bool, required=True), ModelField(name='state', type=Mapping[Any, Any], required=True)], parameterless=[]>
+07-12 03:48:18 [INFO] nonebot | Matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False> running complete
+07-12 03:48:18 [DEBUG] nonebot | Stop event propagation
+07-12 03:48:21 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:48:26 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:48:31 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:48:36 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:48:41 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:48:46 [DEBUG] nonebot | Event type <class 'nonebot.adapters.onebot.v11.event.HeartbeatMetaEvent'> not match annotation MessageEvent, ignored
+07-12 03:48:50 [WARNING] uvicorn | WatchGodReload detected file change in '['/var/qqbot/qqbots/src/plugins/zdhf/jitang.py']'. Reloading...
+07-12 03:48:50 [INFO] uvicorn | Shutting down
+07-12 03:48:50 [WARNING] nonebot | OneBot V11 | WebSocket for Bot 2534354342 closed by peer
+07-12 03:48:50 [INFO] websockets | connection closed
+07-12 03:48:50 [INFO] uvicorn | Waiting for application shutdown.
+07-12 03:48:50 [INFO] uvicorn | Application shutdown complete.
+07-12 03:48:50 [INFO] uvicorn | Finished server process [150]
+07-12 03:48:51 [SUCCESS] nonebot | NoneBot is initializing...
+07-12 03:48:51 [INFO] nonebot | Current Env: dev
+07-12 03:48:51 [SUCCESS] nonebot | Succeeded to import "songpicker2"
+07-12 03:48:51 [SUCCESS] nonebot | Succeeded to import "nonebot_plugin_apscheduler"
+07-12 03:48:51 [SUCCESS] nonebot | Succeeded to import "timework"
+07-12 03:48:51 [SUCCESS] nonebot | Succeeded to import "yiyan"
+The Zen of Python, by Tim Peters
+
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
+07-12 03:48:51 [SUCCESS] nonebot | Succeeded to import "image"
+07-12 03:48:52 [SUCCESS] nonebot | Succeeded to import "huifu"
+07-12 03:48:52 [SUCCESS] nonebot | Succeeded to import "jitang"
+07-12 03:48:52 [SUCCESS] nonebot | Succeeded to import "tiangou"
+07-12 03:48:52 [SUCCESS] nonebot | Succeeded to import "addSbToBan"
+07-12 03:48:52 [SUCCESS] nonebot | Succeeded to import "live"
+07-12 03:48:52 [SUCCESS] nonebot | Succeeded to import "utils"
+07-12 03:48:52 [SUCCESS] nonebot | Succeeded to import "config2"
+07-12 03:48:52 [SUCCESS] nonebot | Succeeded to import "chuo"
+07-12 03:48:52 [INFO] uvicorn | Started server process [158]
+07-12 03:48:52 [INFO] uvicorn | Waiting for application startup.
+07-12 03:48:52 [INFO] nonebot_plugin_apscheduler | Scheduler Started
+07-12 03:48:52 [INFO] uvicorn | Application startup complete.
+07-12 03:48:58 [INFO] uvicorn | ('127.0.0.1', 53500) - "WebSocket /onebot/v11/ws/" [accepted]
+07-12 03:48:58 [INFO] nonebot | OneBot V11 | Bot 2534354342 connected
+07-12 03:48:58 [INFO] websockets | connection open
+07-12 03:49:02 [SUCCESS] nonebot | ONEBOT V11 2534354342 | [message.group.normal]: Message 2066224972 from 1623658271@[群:780974990] "jt"
+07-12 03:49:02 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False>
+07-12 03:49:02 [INFO] nonebot | Matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False> running complete
+07-12 03:49:02 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.zdhf.jitang, type=message, priority=5, temp=False>
+07-12 03:49:02 [INFO] nonebot | Matcher <Matcher from src.plugins.zdhf.jitang, type=message, priority=5, temp=False> running complete
+07-12 03:49:07 [SUCCESS] nonebot | ONEBOT V11 2534354342 | [message.group.normal]: Message -1668269493 from 1623658271@[群:780974990] "emo"
+07-12 03:49:07 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.zdhf.huifu, type=message, priority=4, temp=False>
+07-12 03:49:07 [INFO] nonebot | Matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=4, temp=False> running complete
+07-12 03:49:09 [SUCCESS] nonebot | ONEBOT V11 2534354342 | [message.group.normal]: Message -1184439878 from 1623658271@[群:780974990] "二次元"
+07-12 03:49:09 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.zdhf.image, type=message, priority=4, temp=False>
+07-12 03:49:15 [INFO] nonebot | Matcher <Matcher from src.plugins.zdhf.image, type=message, priority=4, temp=False> running complete
+07-12 03:49:16 [SUCCESS] nonebot | ONEBOT V11 2534354342 | [message.group.normal]: Message 1466466454 from 1623658271@[群:780974990] "qh"
+07-12 03:49:16 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.zdhf.huifu, type=message, priority=4, temp=False>
+07-12 03:49:17 [INFO] nonebot | Matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=4, temp=False> running complete
+07-12 03:49:23 [SUCCESS] nonebot | ONEBOT V11 2534354342 | [message.group.normal]: Message -1106565725 from 1623658271@[群:780974990] "ch"
+07-12 03:49:23 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False>
+07-12 03:49:23 [INFO] nonebot | Matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False> running complete
+07-12 03:49:23 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.zdhf.live, type=message, priority=5, temp=False>
+07-12 03:49:23 [INFO] nonebot | Matcher <Matcher from src.plugins.zdhf.live, type=message, priority=5, temp=False> running complete
+07-12 03:49:25 [SUCCESS] nonebot | ONEBOT V11 2534354342 | [message.group.normal]: Message 1342522511 from 1623658271@[群:780974990] "取消"
+07-12 03:49:25 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.zdhf.live, type=message, priority=0, temp=True>
+07-12 03:49:25 [INFO] nonebot | Matcher <Matcher from src.plugins.zdhf.live, type=message, priority=0, temp=True> running complete
+07-12 03:49:32 [SUCCESS] nonebot | ONEBOT V11 2534354342 | [message.group.normal]: Message -1212323448 from 1623658271@[群:780974990] "yy"
+07-12 03:49:32 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False>
+07-12 03:49:32 [INFO] nonebot | Matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=5, temp=False> running complete
+07-12 03:49:32 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.zdhf.yiyan, type=message, priority=5, temp=False>
+07-12 03:49:32 [INFO] nonebot | Matcher <Matcher from src.plugins.zdhf.yiyan, type=message, priority=5, temp=False> running complete
+07-12 03:50:51 [WARNING] uvicorn | WatchGodReload detected file change in '['/var/qqbot/qqbots/src/plugins/zdhf/huifu.py']'. Reloading...
+07-12 03:50:51 [INFO] uvicorn | Shutting down
+07-12 03:50:51 [WARNING] nonebot | OneBot V11 | WebSocket for Bot 2534354342 closed by peer
+07-12 03:50:51 [INFO] websockets | connection closed
+07-12 03:50:51 [INFO] uvicorn | Waiting for application shutdown.
+07-12 03:50:51 [INFO] uvicorn | Application shutdown complete.
+07-12 03:50:51 [INFO] uvicorn | Finished server process [158]
+07-12 03:50:52 [SUCCESS] nonebot | NoneBot is initializing...
+07-12 03:50:52 [INFO] nonebot | Current Env: dev
+07-12 03:50:52 [SUCCESS] nonebot | Succeeded to import "nonebot_plugin_apscheduler"
+07-12 03:50:52 [SUCCESS] nonebot | Succeeded to import "timework"
+07-12 03:50:52 [SUCCESS] nonebot | Succeeded to import "songpicker2"
+The Zen of Python, by Tim Peters
+
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
+07-12 03:50:52 [SUCCESS] nonebot | Succeeded to import "config2"
+07-12 03:50:52 [SUCCESS] nonebot | Succeeded to import "utils"
+07-12 03:50:52 [SUCCESS] nonebot | Succeeded to import "jitang"
+07-12 03:50:53 [SUCCESS] nonebot | Succeeded to import "image"
+07-12 03:50:53 [SUCCESS] nonebot | Succeeded to import "yiyan"
+07-12 03:50:53 [SUCCESS] nonebot | Succeeded to import "chuo"
+07-12 03:50:53 [SUCCESS] nonebot | Succeeded to import "huifu"
+07-12 03:50:53 [SUCCESS] nonebot | Succeeded to import "live"
+07-12 03:50:53 [SUCCESS] nonebot | Succeeded to import "tiangou"
+07-12 03:50:53 [SUCCESS] nonebot | Succeeded to import "addSbToBan"
+07-12 03:50:53 [INFO] uvicorn | Started server process [165]
+07-12 03:50:53 [INFO] uvicorn | Waiting for application startup.
+07-12 03:50:53 [INFO] nonebot_plugin_apscheduler | Scheduler Started
+07-12 03:50:53 [INFO] uvicorn | Application startup complete.
+07-12 03:50:59 [INFO] uvicorn | ('127.0.0.1', 53628) - "WebSocket /onebot/v11/ws/" [accepted]
+07-12 03:50:59 [INFO] nonebot | OneBot V11 | Bot 2534354342 connected
+07-12 03:50:59 [INFO] websockets | connection open
+07-12 03:50:59 [SUCCESS] nonebot | ONEBOT V11 2534354342 | [message.group.normal]: Message -1602367237 from 1623658271@[群:780974990] "功能"
+07-12 03:50:59 [INFO] nonebot | Event will be handled by <Matcher from src.plugins.zdhf.huifu, type=message, priority=1, temp=False>
+07-12 03:51:00 [INFO] nonebot | Matcher <Matcher from src.plugins.zdhf.huifu, type=message, priority=1, temp=False> running complete
